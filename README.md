@@ -1,2 +1,1 @@
-# blah
-test
+ok ok
